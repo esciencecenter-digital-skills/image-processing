@@ -11,6 +11,7 @@ This is a practice workshop for a real workshop is scheduled on two separate con
       <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:30</td>  <td>Blurring and Thresholding</td> </tr>
       <tr> <td>14:30</td>  <td>Bonus lecture: other formats, other libraries, other</td> </tr>
+      <tr> <td>15:15</td>  <td>Break</td> </tr>
       <tr> <td>15:30</td>  <td>Connected components analysis</td> </tr>
       <tr> <td>16:15</td>  <td>Feedback collection</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
