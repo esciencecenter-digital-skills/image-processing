@@ -27,4 +27,13 @@ Exercises document
 
 The course will also be taught [interally](internal_workshop.md).
 
+## Environment:
+    To work with the correct packages:
+    Install all Python packages required, using conda and the
+    `environment.yml` file.
+
+    * The command for Windows/Anaconda users will be:
+     `conda env create -f environment.yml`.
+
+
 
