@@ -33,7 +33,7 @@ The course will also be taught [interally](internal_workshop.md).
     `environment.yml` file.
 
     * The command for Windows/Anaconda users will be:
-     `conda env create -f environment.yml`.
+     `conda env create -f environment.yml`
 
 
 
