@@ -1,0 +1,18 @@
+#  environment document
+
+name: image_libraries
+channels:
+  - conda-forge
+  
+dependencies:
+  - python=3.8.6
+  - jupyter=1.0.0
+  - matplotlib=3.3.3
+  - notebook=6.4.10
+  - numexpr=2.7.3
+  - numpy=1.22.3
+  - pandas
+  - scipy=1.7.3
+  - scikit-image=0.19.2
+
+
