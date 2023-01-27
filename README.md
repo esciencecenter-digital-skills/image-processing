@@ -15,9 +15,9 @@ Creating Histograms (1:00 hours)
 Summary lecture(1:00 hours)
 
 Day 2:
-Blurring Images (1:00 hours)
-Thresholding (1:00 hours)
-Connected Components Analysis (1:00 hours)
+- Blurring Images (1:00 hours)
+- Thresholding (1:00 hours)
+- Connected Components Analysis (1:00 hours)
 Capstone Challenge (1:00 hours)
 Bonus: Affine and Transformations (1:00 hours)
 Summary, wrap up (1:00 hours)
