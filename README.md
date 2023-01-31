@@ -6,23 +6,44 @@ This lesson is based on the [Carpentries lesson](https://datacarpentry.org/image
 
 Syllabus:
  Recommended schedule for 2 full days
-Day 1:
-Introduction (0:05 hours)
-Image basics (0:30 hours)
-Working with skimage (0:30 hours)
-Drawing and Bitwise Operations (2:30 hours)
-Creating Histograms (1:00 hours)
-Summary lecture(1:00 hours)
 
-Day 2:
-Blurring Images (1:00 hours)
-Thresholding (1:00 hours)
-Connected Components Analysis (1:00 hours)
-Capstone Challenge (1:00 hours)
-Bonus: Affine and Transformations (1:00 hours)
-Summary, wrap up (1:00 hours)
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1. </h3>
+    <table class="table table-striped">
+      <tr> <td>9:00</td>  <td>Welcome and Introduction (Makeda)</td> </tr>
+      <tr> <td>9:10</td>  <td>Image Basics, Working with Skimage (Makeda)</td></tr>
+      <tr> <td>9:30</td>  <td>Working with skimage</td> </tr>
+      <tr> <td>10:15</td>  <td>Drawing and (Djura)</td> </tr>
+      <tr> <td>11:15</td>  <td>Bitwise Operations (Djura)</td> </tr>
+      <tr> <td>12:15</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:00</td>  <td>Creating Histograms (Djura)</td> </tr>
+      <tr> <td>14:00</td>  <td>Summary Lecture(Makeda)</td> </tr>
+      <tr> <td>15:00</td>  <td>Optional extra tutoring/ (Makeda)</td> </tr>
+      <tr> <td>16:00</td>  <td>END day 1</td> </tr>
+    </table>
+  </div>
+ 
+  
 
-
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 2. </h3>
+    <table class="table table-striped">
+      <tr> <td>9:00</td>  <td>Welcome back  (Makeda)</td> </tr>
+      <tr> <td>9:10</td>  <td>Blurring Imaged(Giulia)</td></tr>
+      <tr> <td>10:00</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:15</td>  <td>Thresholding Images (Giulia)</td> </tr>
+      <tr> <td>11:15</td>  <td>Connected Component Analysis (Dani)</td> </tr>
+      <tr> <td>12:15</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:20</td>  <td>Optional Challenge (Dani)</td> </tr>
+      <tr> <td>14:30</td>  <td>Bonus lecture: transformations, affine (Makeda)</td> </tr>
+      <tr> <td>15:30</td>  <td>Feedback collection</td> </tr>
+      <tr> <td>16:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+ 
+  
 Exercises document
 
 The course will also be taught [interally](internal_workshop.md).
