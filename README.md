@@ -54,5 +54,7 @@ The course will also be taught [interally](internal_workshop.md).
     * The command for Windows/Anaconda users will be:
      `conda env create -f environment.yml`
 
+    You can find additional instructions in our [setup](setup.md)
+
 
 
