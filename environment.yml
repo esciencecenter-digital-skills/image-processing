@@ -8,6 +8,7 @@ dependencies:
   - python=3.8.6
   - jupyter=1.0.0
   - matplotlib=3.3.3
+  - nest-asyncio=1.5.5
   - notebook=6.4.10
   - numexpr=2.7.3
   - numpy=1.22.3
