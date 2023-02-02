@@ -25,4 +25,4 @@ conda env create -f environment.yml
 conda activate image_libraries
 ```
 
-If the tests pass, you're all good! Otherwise, please contact us before the workshop.
+In any doubt, please contact us before the workshop.
