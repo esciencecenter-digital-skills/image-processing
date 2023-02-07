@@ -54,7 +54,7 @@ The course will also be taught [interally](internal_workshop.md).
     * The command for Windows/Anaconda users will be:
      `conda env create -f environment.yml`
 
-    You can find additional instructions in our [setup](setup.md)
+    You can find additional instructions in our [setup](https://github.com/esciencecenter-digital-skills/image-processing/blob/main/setup.md)
 
 
 
