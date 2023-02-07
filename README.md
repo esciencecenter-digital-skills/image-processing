@@ -47,14 +47,14 @@ Exercises document
 The course will also be taught [interally](internal_workshop.md).
 
 ## Environment:
-    To work with the correct packages:
-    Install all Python packages required, using conda and the
+To work with the correct packages:
+Install all Python packages required, using conda and the
     `environment.yml` file.
 
-    * The command for Windows/Anaconda users will be:
+  * The command for Windows/Anaconda users will be:
      `conda env create -f environment.yml`
 
-    You can find additional instructions in our [setup](https://github.com/esciencecenter-digital-skills/image-processing/blob/main/setup.md)
+  You can find additional instructions in our [setup](https://github.com/esciencecenter-digital-skills/image-processing/blob/main/setup.md)
 
 
 
