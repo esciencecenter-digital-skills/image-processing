@@ -12,13 +12,13 @@ Syllabus:
     <table class="table table-striped">
       <tr> <td>9:00</td>  <td>Welcome and Introduction (Makeda)</td> </tr>
       <tr> <td>9:10</td>  <td>Image Basics(Makeda)</td></tr>
-      <tr> <td>9:30</td>  <td>Working with the skimage library</td> </tr>
+      <tr> <td>9:30</td>  <td>Working with the skimage library (Makeda)</td> </tr>
       <tr> <td>10:15</td>  <td>Drawing + (Djura)</td> </tr>
       <tr> <td>11:15</td>  <td>Bitwise Operations (Djura)</td> </tr>
       <tr> <td>12:15</td>  <td>Lunch break</td> </tr>
       <tr> <td>13:00</td>  <td>Creating Histograms (Djura)</td> </tr>
       <tr> <td>14:00</td>  <td>Summary Lecture (Makeda)</td> </tr>
-      <tr> <td>15:00</td>  <td>Optional extra tutoring/ (Makeda)</td> </tr>
+      <tr> <td>15:00</td>  <td>Optional extra tutoring (Makeda)</td> </tr>
       <tr> <td>16:00</td>  <td>END day 1</td> </tr>
     </table>
   </div>
