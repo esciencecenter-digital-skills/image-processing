@@ -34,7 +34,7 @@ To ask a question, just raise your hand.
 
 If you need help from a helper, place a pink post-it note on your laptop lid. A helper will come to assist you as soon as possible.
 
-## 🖥 Workshop website
+## 🖥 Workshop website - will be updated
 
 [link](<url>)
 
@@ -77,7 +77,7 @@ Name/ experience level with images 0 to 10
  
 
 ## 🎓🏢 Evaluation logistics
-* After each session you should write an eval into the colaborative document
+* Before lunch and at the end of the day you should write evaluations into the colaborative document.
 
 
 ## 🎓🔧Evaluations
@@ -85,57 +85,36 @@ Name/ experience level with images 0 to 10
  This is the real reason behind the day.
  
  |9:00|Welcome, Intro and assesing packages  (Makeda)
+ |9:10|Image Basics, Working with Skimage (Makeda)|
+ |10:15|Drawing and Bitwise Operations (Djura)|
+ |11:15|Blurring (Giulia)|
  -Evaluator name (optional)| Evaluation
  -
  -
  -
  -
- 
-|9:10|Image Basics, Working with Skimage (Makeda)|
--Evaluator name (optional)| Evaluation
- -
- -
- -
- -
-
-|10:15|Drawing and Bitwise Operations (Djura)|
--Evaluator name (optional)| Evaluation
- -
- -
- -
- -
-|11:15|Blurring (Giulia)|
--Evaluator name (optional)| Evaluation
  -
  -
  -
  -
 
 |13:00|Thresholding (Giulia)|
--Evaluator name (optional)| Evaluation
- -
- -
- -
- -
 |14:00|Connected components analysis (Dani)|
--Evaluator name (optional)| Evaluation
- -
- -
- -
- -
 |15:00|Optional Challenge (Dani)|
--Evaluator name (optional)| Evaluation
- -
- -
- -
- -
 |16:00|Bonus lecture: transformations, affine (Makeda)|
 -Evaluator name (optional)| Evaluation
  -
  -
  -
  -
-
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ 
 
 ## 🔧 Exercises
 
