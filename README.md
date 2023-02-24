@@ -44,7 +44,7 @@ Syllabus:
 
 Exercises document
 
-The course will also be taught [interally](internal_workshop.md).
+The course will also be taught [internally](internal_workshop.md).
 
 ## Environment:
 To work with the correct packages:
