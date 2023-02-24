@@ -2,7 +2,7 @@
 
 During 'Image Processing with Python' workshops, researchers will learn image processing skills to facilitate open and reproducible research with images. Topics will include basics of image processing like thresholding, blurring, bitwise operations and histograms. Intermediate topics of connected components analysis and transformations will be covered as well.
 
-This lesson is based on the [Carpentries lesson](https://datacarpentry.org/image-processing/setup/).
+This lesson is based on the [Carpentries lesson](https://datacarpentry.org/image-processing/).
 
 Syllabus:
  Recommended schedule for 2 full days
