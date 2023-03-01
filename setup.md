@@ -1,6 +1,5 @@
 ### Requirements
 
-- An integrated development environment (IDE), we recommend [Microsoft VS Code](https://code.visualstudio.com/).
 - Python version 3.8 or higher, we recommend [Anaconda](https://www.anaconda.com/products/individual) or
   [Miniconda](https://docs.conda.io/en/latest/miniconda.html) 
 - Git. If you're on Windows, follow these instructions: [Git for Windows](https://carpentries.github.io/workshop-template/#shell).

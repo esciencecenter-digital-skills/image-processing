@@ -16,5 +16,7 @@ dependencies:
   - pandas
   - scipy=1.7.3
   - scikit-image=0.19.2
+  - jupyterlab=3.6.1
+  - ipympl=0.9.3
 
 
