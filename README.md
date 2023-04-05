@@ -11,15 +11,16 @@ Syllabus:
     <h3>Day 1. </h3>
     <table class="table table-striped">
       <tr> <td>9:00</td>  <td>Welcome and Introduction (Makeda)</td> </tr>
-      <tr> <td>9:10</td>  <td>Image Basics(Makeda)</td></tr>
-      <tr> <td>9:30</td>  <td>Working with the skimage library (Makeda)</td> </tr>
-      <tr> <td>10:15</td>  <td>Drawing + (Djura)</td> </tr>
-      <tr> <td>11:15</td>  <td>Bitwise Operations (Djura)</td> </tr>
-      <tr> <td>12:15</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Creating Histograms (Djura)</td> </tr>
-      <tr> <td>14:00</td>  <td>Summary Lecture (Makeda)</td> </tr>
-      <tr> <td>15:00</td>  <td>Optional extra tutoring (Makeda)</td> </tr>
-      <tr> <td>16:00</td>  <td>END day 1</td> </tr>
+      <tr> <td>9:20</td>  <td>Image Basics(Makeda)</td></tr>
+      <tr> <td>9:40</td>  <td>Working with the skimage library (Makeda)</td> </tr>
+      <tr> <td>10:30</td>  <td>Coffee break</td> </tr>
+      <tr> <td>10:40</td>  <td>Drawing + (Djura)</td> </tr>
+      <tr> <td>11:40</td>  <td>Bitwise Operations (Djura)</td> </tr>
+      <tr> <td>12:30</td>  <td>Lunch break</td> </tr>
+      <tr> <td>13:30</td>  <td>Creating Histograms (Djura)</td> </tr>
+      <tr> <td>14:30</td>  <td>Summary Lecture (Makeda)</td> </tr>
+      <tr> <td>15:30</td>  <td>Optional extra tutoring (Makeda)</td> </tr>
+      <tr> <td>16:30</td>  <td>END day 1</td> </tr>
     </table>
   </div>
 
