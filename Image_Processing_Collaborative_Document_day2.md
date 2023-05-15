@@ -11,11 +11,11 @@ This Document is synchronized as you type, so that everyone viewing this page se
 
 ----------------------------------------------------------------------------
 
-This is the Document for today: [link](<url>)
+This is the Document for today: [link](<https://codimd.carpentries.org/s/kCHZi2Iq3>)
 
 Collaborative Document day 1: [link](<https://codimd.carpentries.org/s/6dpg_iY3n>)
 
-Collaborative Document day 2: [link](<url>)
+Collaborative Document day 2: [link](<https://codimd.carpentries.org/s/kCHZi2Iq3>)
 
 ## 👮Code of Conduct
 

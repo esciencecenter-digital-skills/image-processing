@@ -3,7 +3,7 @@
 
 # Image Processing Collaborative Document
 
-05-06-2023 and 06-06-2023 Image Processing.
+05-06-2023 Image Processing (day 1).
 
 Welcome to The Workshop Collaborative Document.
 
@@ -11,11 +11,11 @@ This Document is synchronized as you type, so that everyone viewing this page se
 
 ----------------------------------------------------------------------------
 
-This is the Document for today: [link](<url>)
+This is the Document for today: [link](<https://codimd.carpentries.org/s/6dpg_iY3n>)
 
-Collaborative Document day 1: [link](<url>)
+Collaborative Document day 1: [link](<https://codimd.carpentries.org/s/6dpg_iY3n>)
 
-Collaborative Document day 2: [link](<url>)
+Collaborative Document day 2: [link](<https://codimd.carpentries.org/s/kCHZi2Iq3>)
 
 ## 👮Code of Conduct
 
@@ -45,7 +45,7 @@ If you need help from a helper, place a pink post-it note on your laptop lid. A 
 [link](<https://github.com/esciencecenter-digital-skills/image-processing/blob/main/setup.md>)
 
 Download files: Data files can be obtained through the repository
-[link](<https://github.com/esciencecenter-digital-skills/2023-06-05-dc-image-processing>)
+[link](<https://github.com/esciencecenter-digital-skills/2023-06-05-dc-image-processing/tree/main/data>)
 
 ## 👩‍🏫👩‍💻🎓 Instructors
 
@@ -59,15 +59,16 @@ Same as above
 Name/ Organization
 
 
-## 💻👩‍💼🔬👨‍🔬🧑‍🔬🚀🔧 Extra questions 1 and 2
-Name/ Type of Images you work on/ Types of interest
+## 💻👩‍💼🔬👨‍🔬🧑‍🔬🚀🔧 Mini-survey
+For all questions, please put your name as well
 
-## 💻👩‍💼🔬👨‍🔬🧑‍🔬🚀🔧 Extra questions 3 and 4
-Name/ What do you use to work with images now?/ Happiness with it
+### ❓💁 What type of images do you work on? What format(s) are these usually in?
+- (example:) Dani / microscopy images / tif, nd2
+
+### ❓💁 What methods or software do you currently use to analyze your images? What are the advantages and/or pitfalls of these methods?
+- (example:) Dani / ImageJ / It has a nice GUI and decent built-in macro language and many pre-existing libraries for simple and medium-complexity analyses, but is buggy, slow and ultimately runs short when doing high complexity analysis.
 
 
-## 💻👩‍💼🔬👨‍🔬🧑‍🔬🚀🔧 Extra questions 5 and 6
-Name/ Pitfalls of your current methods/ Advantages of your methods
 
 ## 🗓️ Agenda
 | Times Day One | Topic                                           |
@@ -121,10 +122,13 @@ If you attend the full workshop you can request a certificate of attendance by e
 
 ## 🎓🔧Evaluations
 
+Evaluations are anonymous, but you can also provide verbal feedback. 
  
--Evaluator name (optional)| Evaluation
+ Evaluation | specific part or all
  -
- - Your alias | Your comments
+ - Your comments| Which session or all sessions
+ -
+ -
  -
  -
  -
