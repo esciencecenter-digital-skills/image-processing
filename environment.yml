@@ -1,6 +1,6 @@
 #  environment document
 
-name: image_librariesMINE
+name: image_libraries
 channels:
   - conda-forge
   

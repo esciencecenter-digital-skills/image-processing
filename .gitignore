@@ -1,3 +1,5 @@
 # ignore notebook checkpoints
 *.ipynb_checkpoints
 
+makeda_secrets
+makeda_secrets/*
