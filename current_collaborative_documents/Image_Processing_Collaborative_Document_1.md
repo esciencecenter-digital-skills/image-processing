@@ -3,7 +3,7 @@
 
 # Image Processing Collaborative Document
 
-03-11-2024 to 03-14-2024 Image Processing.
+11-03-2024 to 14-03-2024 Image Processing.
 
 Welcome to The Workshop Collaborative Document.
 
@@ -76,60 +76,51 @@ Name/ Pitfalls of your current methods/ Advantages of your methods
 ## 🗓️ Agenda
 | Times Day One | Topic                                           |
 | -------------:|:-------------------------- |
-|          9:30 | Welcome and Intro  (Makeda)   |
-|          9:50 | Image Basics (Makeda) |
+|          9:00 | Welcome and Intro  (Makeda)   |
+|          9:20 | Image Basics (Makeda) |
 |          10:10| Working with Skimage  (Makeda)| 
-|         11:00| Coffee            |
-|    11:15 | Drawing (Djura)     |
-|    12:15 | Lunch   |                
-|         13:15 | Bitwise operations (Djura)         |
-|         14:30 |  Creating Histograms (Djura)        |
-|         15:30 |    Summary Lecture (Makeda)     |
-|         16: 30| Urgent feedback collection and updates (Makeda) |
-|     16:40     | Optional extra tutoring (Makeda)    |
-|         17:00 | END                                             |
+|         10:30| Coffee            |
+|    10:40 | Drawing (Jaro)     |              
+|         11:40 | Bitwise operations (Jaro)         |
+|         12:30 |    Summary and Wrap-up (Makeda)     |
+|         12: 40| Urgent feedback collection and updates (Makeda) |
+|     12:50     | Optional extra tutoring (Makeda)    |
+|         13:00 | END                                             |
+
+
 
 |  Times Day Two | Topic                        |
 | -------:|:----------------------------- |
-|  9:00 | Welcome back (Makeda)  |
-|  9:10 | Blurring Images (Giulia)     |
-| 10:00 | Coffee break                  |
+|  9:00 | Welcome back + Questions(Makeda)  |
+|  9:10 | Historgrams (Giulia)     |
+| 10:00 | Blurring (Giulia)               |
 | 10:15 | Thresholding Images (Giulia)            |
-| 11:15 |  Connected components analysis (Dani)                     |
-| 12:15 | Lunch break                                     |
-| 13:20 | Optional Challenge (Dani)                          |
-| 14:30 |  Bonus lecture: transformations, affine (Makeda) |
-| 15:30 | Feedback collection            |
-| 16:00 | Wine and networking                       |
+| 11:30 |    Wrap up and summary                   |
+| 11:45 | Feedback collection            |
+| 12:00 | Extra tutoring and/or networking         |
+| 13:00 | End day 2             |
 
-                                   
+
+
+
 | Times Day Three | Topic                                           |
 | -------------:|:-------------------------- |
-|          9:30 | Welcome and Intro  (Makeda)   |
-|          9:50 | Image Basics (Makeda) |
-|          10:10| Working with Skimage  (Makeda)| 
-|         11:00| Coffee            |
-|    11:15 | Drawing (Djura)     |
-|    12:15 | Lunch   |                
-|         13:15 | Bitwise operations (Djura)         |
-|         14:30 |  Creating Histograms (Djura)        |
-|         15:30 |    Summary Lecture (Makeda)     |
-|         16: 30| Urgent feedback collection and updates (Makeda) |
-|     16:40     | Optional extra tutoring (Makeda)    |
-|         17:00 | END                                             |
+|          9:00 | Welcome and Intro  (Makeda)   |
+|          9:25 | Thresholding Images II (Giulia)            |
+| 10:30 | Coffee break                          |
+|          10:45 | Thresholding Images II continued(Giulia)            |
+| 11:15 |  Connected components analysis (jaro)                     |
+|         13:00 | END                                             |
 
 |  Times Day Four | Topic                        |
 | -------:|:----------------------------- |
 |  9:00 | Welcome back (Makeda)  |
-|  9:10 | Blurring Images (Giulia)     |
-| 10:00 | Coffee break                  |
-| 10:15 | Thresholding Images (Giulia)            |
-| 11:15 |  Connected components analysis (Dani)                     |
-| 12:15 | Lunch break                                     |
-| 13:20 | Optional Challenge (Dani)                          |
-| 14:30 |  Bonus lecture: transformations, affine (Makeda) |
-| 15:30 | Feedback collection            |
-| 16:00 | Wine and networking                       |
+| 9:30 | Optional Challenge (Jaro)                          |
+| 10:30 | Coffee break                          |
+| 10:45 | Optional Challenge continued(Jaro)                          |
+| 11:30 |  Bonus lecture: transformations, affine (Makeda) |
+| 12:30 | Final feedback collection and notices           |
+| 13:00 | End course                       |
  
 
 ## 🎓🏢 Evaluation logistics
