@@ -21,5 +21,8 @@ Install all Python packages required, using conda and the
 
   You can find additional instructions in our [setup](https://github.com/esciencecenter-digital-skills/image-processing/blob/main/setup.md)
 
+PLEASE NOTE: Building this environment will potentially take a lot of time, especially if your memory is low.
+If it takes too long (up to 30 minutes), don't worry. If you lack patience, install ```mamba``` in your base environment, and use it 
+as a drop in substitute for conda.  
 
 
